@@ -1,5 +1,8 @@
 # Project Scaffold CLI
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+
 A simple yet powerful CLI tool to instantly scaffold your "Daily Driver" web projects.
 
 `create-my-app` generates a clean, ready-to-run folder structure with `index.html`, `style.css`, and `.gitignore`, saving you from repetitive setup.
